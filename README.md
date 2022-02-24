@@ -4,6 +4,7 @@
 - ✔ HTML
 - ✔ CSS
 - ✔ BOOTSTRAP
+- ✔ TAILWIND
 - ✔ GIT
 - ✔ GITHUB
 - ✔ PYTHON
