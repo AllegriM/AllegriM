@@ -8,6 +8,7 @@
 - ✔ SASS
 - ✔ GIT
 - ✔ GITHUB
+- ✔ JAVASCRIPT
 - ✔ PYTHON
 
 - 📫 You can reach me thru: 
