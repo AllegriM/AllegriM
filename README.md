@@ -27,11 +27,44 @@
   <img alt="vueJs" src="https://img.shields.io/badge/-VueJs-green?style=flat-square&logo=vuedotjs&logoColor=black" />
   <img alt="rubyOnRails" src="https://img.shields.io/badge/-Ruby-E34F26?style=flat-square&logo=ruby&logoColor=white" />
 </p>
+
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>🎁 Projects</b></td>
+      <td><b>⭐ Stars</b></td>
+      <td><b>📚 Forks</b></td>
+      <td><b>🛎 Issues</b></td>
+      <td><b>📬 Pull requests</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/AllegriM/WeatherGeoLocationApp"><b>Weather GeoLocation App</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/AllegriM/WeatherGeoLocationApp?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/AllegriM/WeatherGeoLocationApp?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/AllegriM/WeatherGeoLocationApp?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/AllegriM/WeatherGeoLocationApp?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+	  <tr>
+      <td><a href="https://github.com/AllegriM/bompiBurguers"><b>Ecommerce Hamburguer App</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/AllegriM/bompiBurguers?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/AllegriM/bompiBurguers?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/AllegriM/bompiBurguers?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/AllegriM/bompiBurguers?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/AllegriM/RockPaperScissors"><b>Rock Paper Scissors Game</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/AllegriM/RockPaperScissors?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/AllegriM/RockPaperScissors?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/AllegriM/RockPaperScissors?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/AllegriM/RockPaperScissors?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+  </tbody>
+</table>
+ 
+ 
 - 👀 I’m interested in learning skills and developing my coding abilities. 
-
-
-
-
 - 📫 You can reach me thru: 
 Email: marcoallegri99@outlook.com
 LinkedIn: https://www.linkedin.com/in/marco-allegri/
