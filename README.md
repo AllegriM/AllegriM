@@ -10,6 +10,7 @@
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="css" src="https://img.shields.io/badge/-Css-blue?style=flat-square&logo=css3&logoColor=white" />
   <img alt="javascript" src="https://img.shields.io/badge/-Javascript-yellow?style=flat-square&logo=javascript&logoColor=black" />
+  <img alt="react" src="https://img.shields.io/badge/-React-blue?style=flat-square&logo=react&logoColor=black" />
   <img alt="bootstrap" src="https://img.shields.io/badge/-Bootstrap-pink?style=flat-square&logo=bootstrap&logoColor=white" />
   <img alt="tailwind" src="https://img.shields.io/badge/-Tailwind-informational?style=flat-square&logo=tailwind&logoColor=black" />
   <img alt="python" src="https://img.shields.io/badge/-Python-blueviolet?style=flat-square&logo=python&logoColor=white" />
@@ -23,9 +24,8 @@
 <h3>Things I am learning soon</h3>
 <p>
   <img alt="typescript" src="https://img.shields.io/badge/-Typescript-E34F26?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="react" src="https://img.shields.io/badge/-React-blue?style=flat-square&logo=react&logoColor=black" />
-  <img alt="vueJs" src="https://img.shields.io/badge/-VueJs-green?style=flat-square&logo=vuedotjs&logoColor=black" />
   <img alt="rubyOnRails" src="https://img.shields.io/badge/-Ruby-E34F26?style=flat-square&logo=ruby&logoColor=white" />
+  <img alt="redux" src"https://img.shields.io/badge/-Redux-E34F26?style=flat-square&logo=reduxy&logoColor=white" />
 </p>
 
 <table>
