@@ -25,7 +25,7 @@
 <p>
   <img alt="typescript" src="https://img.shields.io/badge/-Typescript-E34F26?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="rubyOnRails" src="https://img.shields.io/badge/-Ruby-E34F26?style=flat-square&logo=ruby&logoColor=white" />
-  <img alt="redux" src"https://img.shields.io/badge/-Redux-blue?style=flat-square&logo=redux&logoColor=white" />
+<!--   <img alt="redux" src"https://img.shields.io/badge/-Redux-blue?style=flat-square&logo=redux&logoColor=white" /> -->
 </p>
 
 <table>
