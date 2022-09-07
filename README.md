@@ -1,8 +1,8 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 <h3>Search me here!</h3>
 <p>
- <a href="https://github.com/AllegriM"><img alt="github" src="https://img.shields.io/badge/-MarcoAllegri-blue?style=flat-square&logo=linkedin&logoColor=white" /></a>
- <a href="https://www.linkedin.com/in/marco-allegri/"><img alt="linkedin" src="https://img.shields.io/badge/-AllegriM-black?style=flat-square&logo=github&logoColor=white" /></a>
+ <a href="https://www.linkedin.com/in/marco-allegri/"><img alt="github" src="https://img.shields.io/badge/-MarcoAllegri-blue?style=flat-square&logo=linkedin&logoColor=white" /></a>
+ <a href="https://github.com/AllegriM"><img alt="github" src="https://img.shields.io/badge/-AllegriM-black?style=flat-square&logo=github&logoColor=white" /></a>
 </p>
 <p>Welcome to my page! </br> <b>My name is Marco</b>, I'm a FrontEnd developer from <img src="https://cdn-icons-png.flaticon.com/512/330/330487.png" width="13"/> <b>Buenos Aires, Argentina</b>.</p>
 <h3>Things I code with</h3>
