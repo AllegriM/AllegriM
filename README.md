@@ -70,11 +70,6 @@ Email: marcoallegri99@outlook.com
 LinkedIn: https://www.linkedin.com/in/marco-allegri/
 
 
-  ##
-  
- 
-   ![Snake animation](https://github.com/AllegriM/AllegriM/blob/output/github-contribution-grid-snake.svg)
-
 <!---
 AllegriM/AllegriM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
